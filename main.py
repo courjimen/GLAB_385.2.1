@@ -16,5 +16,5 @@ CREATING VIRTUAL ENVIRONMENT
 
 INSTALLING PACKAGES IN ACTIVE ENV
 1. Make sure your virtual environment is activated.
-2. Use command pip install (insert name of package)
+2. Use command pip install ipykernel
 '''
